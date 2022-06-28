@@ -29,14 +29,17 @@ knitr::opts_chunk$set(echo = FALSE)
 -   Chemical Profiles of Emissions
 -   Land use data
 
-## Analysis for Different Emissions
+## Disaggregating Averaged Emissions Estimates
 
 -   Anthropogenic Emissions
-    -   Temporal
--   Chemical Emissions
-    -   Temporal
+    -   Temporally disaggregated monthly estimates
+    -   3D Spatial allocation using LiDAR and OpenStreetMap
+
 -   Biogenic Emissions
-    -   Spatial
+    -   Temporally disaggregated monthly estimates
+    -   2D Spatial allocation using AAFC land use data
+
+
 
 ## Allocation
 
